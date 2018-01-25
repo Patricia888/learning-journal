@@ -1,0 +1,3 @@
+# Learning Journal Day 13
+
+Today we learned about data persistence through local storage. I really liked this section; I can see how it opens up a lot of possibilities for interactivity. I was thrown off at first when I started the lab, because the demo was only in the console and I wasn't sure if it would translate directly to the js, but after doing a basic key value pair test (which worked, no problem), I was able to dive in.
